@@ -5,10 +5,9 @@ Projeto prático de programação com foco no estudo de JavaScript.
 Calculadora simples criada utilizando funções, eventos DOM com botôes e operadores matemáticos básicos.
 
 
-<div align="left">
-<img src="![image](https://github.com/davidmello04/calculadora/assets/102268159/88ca7d25-5aa2-48b8-9e5c-cf459242aa6e)
-" width="450px" />
-</div>
+## Screenshots
+
+![image](https://github.com/davidmello04/calculadora/assets/102268159/4d2dec97-dc15-4bad-820b-3a926395f2a0)
 
 
 ## Funcionalidades
