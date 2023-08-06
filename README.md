@@ -1,6 +1,6 @@
 # Calculadora
 
-Projeto prático de programação com foco no estudo de JavaScript.a
+Projeto prático de programação com foco no estudo de JavaScript.
 
 Calculadora simples criada utilizando funções, eventos DOM com botôes e operadores matemáticos básicos.
 
